@@ -8,13 +8,13 @@
   },
   "tags": {},
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
-  "keywords": ["uniswap", "unsupported"],
+  "keywords": ["uniswap"],
   "tokens": [
     {
       "name": "Gold Tether",
-      "address": "0x4922a015c4407F87432B179bb209e125432E4a2A",
-      "symbol": "XAUt",
-      "decimals": 6,
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "symbol": "wAVAX",
+      "decimals": 18,
       "chainId": 43114,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4922a015c4407F87432B179bb209e125432E4a2A/logo.png"
     }
