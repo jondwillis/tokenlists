@@ -149,14 +149,6 @@
 			"logoURI": "https://bscscan.com/token/images/compound_32.png?v1"
 		},
 		{
-			"name": "Basic Attention Token on xDai",
-			"address": "0xC6cC63f4AA25BBD4453eB5F3a0DfE546feF9b2f3",
-			"symbol": "BAT",
-			"decimals": 18,
-			"chainId": 56,
-			"logoURI": "https://etherscan.io/token/images/bat.png"
-		},
-		{
 			"name": "BUSD",
 			"address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
 			"symbol": "BUSD",
@@ -173,7 +165,7 @@
 			"logoURI": "https://bscscan.com/token/images/zcash_32.png"
 		},
 		{
-			"name": "Ethereum Classic",
+			"name": "ETC",
 			"address": "0x3d6545b08693dae087e957cb1180ee38b9e3c25e",
 			"symbol": "ETC",
 			"decimals": 18,
@@ -189,7 +181,7 @@
 			"logoURI": "https://bscscan.com/token/images/pancake_32.png?=v1"
 		},
 		{
-			"name": "Yearn Finance",
+			"name": "Yearn",
 			"address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
 			"symbol": "YFI",
 			"decimals": 18,
@@ -213,7 +205,7 @@
 			"logoURI": "https://bscscan.com/token/images/ontology_32.png"
 		},
 		{
-			"name": "Basic Attention Token",
+			"name": "BAT",
 			"address": "0x101d82428437127bf1608f699cd651e6abf9766e",
 			"symbol": "BAT",
 			"decimals": 18,
@@ -301,7 +293,7 @@
 			"logoURI": "https://bscscan.com/token/images/venus-vbtc_32.png"
 		},
 		{
-			"name": "VAI Stablecoin",
+			"name": "VAI",
 			"address": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
 			"symbol": "VAI",
 			"decimals": 18,
@@ -333,7 +325,7 @@
 			"logoURI": "https://bscscan.com/token/images/aelf_32.png"
 		},
 		{
-			"name": "Linear Token",
+			"name": "Linear",
 			"address": "0x762539b45a1dcce3d36d080f74d1aed37844b878",
 			"symbol": "LINA",
 			"decimals": 18,
@@ -357,7 +349,7 @@
 			"logoURI": "https://bscscan.com/token/images/autofarm_32.png"
 		},
 		{
-			"name": "MATH Token",
+			"name": "MATH",
 			"address": "0xf218184af829cf2b0019f8e6f0b2423498a36983",
 			"symbol": "MATH",
 			"decimals": 18,
@@ -365,7 +357,7 @@
 			"logoURI": "https://bscscan.com/token/images/mathwallet_32.png"
 		},
 		{
-			"name": "Reef Finance",
+			"name": "Reef",
 			"address": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
 			"symbol": "REEF",
 			"decimals": 18,
@@ -381,7 +373,7 @@
 			"logoURI": "https://bscscan.com/token/images/venus-vusdc_32.png"
 		},
 		{
-			"name": "Spartan Protocol",
+			"name": "Spartan",
 			"address": "0xe4ae305ebe1abe663f261bc00534067c80ad677c",
 			"symbol": "SPARTA",
 			"decimals": 18,
@@ -429,7 +421,7 @@
 			"logoURI": "https://bscscan.com/token/images/venus-vbusd_32.png"
 		},
 		{
-			"name": "Berry Tributes",
+			"name": "Berry",
 			"address": "0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
 			"symbol": "BRY",
 			"decimals": 18,
@@ -437,7 +429,7 @@
 			"logoURI": "https://bscscan.com/token/images/berrydata_32.png"
 		},
 		{
-			"name": "Force Token",
+			"name": "Force",
 			"address": "0x658a109c5900bc6d2357c87549b651670e5b0539",
 			"symbol": "FOR",
 			"decimals": 18,
@@ -453,7 +445,7 @@
 			"logoURI": "https://bscscan.com/token/images/venus-vusdt_32.png"
 		},
 		{
-			"name": "StableX Token",
+			"name": "StableX",
 			"address": "0x0da6ed8b13214ff28e9ca979dd37439e8a88f6c4",
 			"symbol": "STAX",
 			"decimals": 18,
@@ -477,7 +469,7 @@
 			"logoURI": "https://etherscan.io/token/images/unilayer_32.png"
 		},
 		{
-			"name": "Beefy Finance",
+			"name": "Beefy",
 			"address": "0xca3f508b8e4dd382ee878a314789373d80a5190a",
 			"symbol": "BIFI",
 			"decimals": 18,
@@ -501,7 +493,7 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/13582/small/icon-bscex-200x200.png?1609917200"
 		},
 		{
-			"name": "Unifi Protocol DAO",
+			"name": "Unifi",
 			"address": "0x441761326490cacf7af299725b6292597ee822c2",
 			"symbol": "UNFI",
 			"decimals": 18,
@@ -509,7 +501,7 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/13152/small/logo-2.png?1605748967"
 		},
 		{
-			"name": "Fuel Token",
+			"name": "Fuel",
 			"address": "0x2090c8295769791ab7a3cf1cc6e0aa19f35e441a",
 			"symbol": "FUEL",
 			"decimals": 18,
@@ -517,7 +509,7 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/13305/small/bW_WB5Rz_400x400.jpg?1607325041"
 		},
 		{
-			"name": "BAT True Share",
+			"name": "BTS",
 			"address": "0xc2e1acef50ae55661855e8dcb72adb182a3cc259",
 			"symbol": "BTS",
 			"decimals": 18,
@@ -525,7 +517,7 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/13623/small/btd200.png?1613450034"
 		},
 		{
-			"name": "PandaSwap Token",
+			"name": "PandaSwap",
 			"address": "0x47DcC83a14aD53Ed1f13d3CaE8AA4115f07557C0",
 			"symbol": "PNDA",
 			"decimals": 18,
