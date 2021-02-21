@@ -521,7 +521,7 @@
 			"address": "0x47DcC83a14aD53Ed1f13d3CaE8AA4115f07557C0",
 			"symbol": "PNDA",
 			"decimals": 18,
-			"chainId": 100,
+			"chainId": 56,
 			"logoURI": "https://www.bao.finance/static/media/bao-banner.90e5acb6.png"
 		}
 	]
