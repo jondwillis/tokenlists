@@ -1,9 +1,9 @@
 {
 	"name": "PandaSwap",
-	"timestamp": "2021-02-10T18:17:30.662Z",
+	"timestamp": "2021-22-10T18:17:30.662Z",
 	"version": {
 		"major": 2,
-		"minor": 5,
+		"minor": 7,
 		"patch": 1
 	},
 	"tags": {},
