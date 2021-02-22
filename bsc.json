@@ -1,9 +1,9 @@
 {
-	"name": "PandaSwap",
-	"timestamp": "2021-22-10T18:17:30.662Z",
+	"name": "BEP20 Token List",
+	"timestamp": "2021-21-10T18:17:30.662Z",
 	"version": {
 		"major": 2,
-		"minor": 7,
+		"minor": 8,
 		"patch": 1
 	},
 	"tags": {},
