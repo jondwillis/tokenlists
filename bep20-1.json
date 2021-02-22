@@ -1,9 +1,9 @@
 {
-	"name": "BEP20 Token List",
+	"name": "BEP20",
 	"timestamp": "2021-21-10T18:17:30.662Z",
 	"version": {
-		"major": 15,
-		"minor": 8,
+		"major": 1,
+		"minor": 1,
 		"patch": 1
 	},
 	"tags": {},
