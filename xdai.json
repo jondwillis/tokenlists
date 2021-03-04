@@ -1,9 +1,9 @@
 {
   "name": "xDAI Default",
-  "timestamp": "2021-02-10T18:17:30.662Z",
+  "timestamp": "2021-03-03T18:17:30.662Z",
   "version": {
-    "major": 2,
-    "minor": 5,
+    "major": 3,
+    "minor": 0,
     "patch": 1
   },
   "tags": {},
