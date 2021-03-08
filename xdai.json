@@ -1,8 +1,8 @@
 {
   "name": "xDAI Default",
-  "timestamp": "2021-03-03T18:17:30.662Z",
+  "timestamp": "2021-03-08T14:45:00Z",
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 1
   },
@@ -193,7 +193,7 @@
       "name": "BNS Token on xDai",
       "address": "0xEC84A3bB48D70553C2599AC2d0Db07b2DFdF6364",
       "symbol": "BNS",
-      "decimals": 18,
+      "decimals": 8,
       "chainId": 100,
       "logoURI": "https://etherscan.io/token/images/bns_32.png"
     },
@@ -305,7 +305,7 @@
       "name": "Statis Euro",
       "address": "0x9EE40742182707467f78344F6b287bE8704F27E2",
       "symbol": "EURS",
-      "decimals": 18,
+      "decimals": 2,
       "chainId": 100,
       "logoURI": "https://assets.coingecko.com/coins/images/5164/small/EURS_300x300.png"
     },
@@ -313,7 +313,7 @@
       "name": "FRAX Stablecoin",
       "address": "0xca5d82E40081F220d59f7ED9e2e1428DEAf55355",
       "symbol": "FRAX",
-      "decimals": 8,
+      "decimals": 18,
       "chainId": 100,
       "logoURI": "https://assets.coingecko.com/coins/images/13422/small/frax_logo.png"
     },
@@ -361,7 +361,7 @@
       "name": "Huobi BTC",
       "address": "0xd87FCB23da48D4D9B70c6F39B46debb5d993Ad19",
       "symbol": "HBTC",
-      "decimals": 8,
+      "decimals": 18,
       "chainId": 100,
       "logoURI": "https://assets.coingecko.com/coins/images/12407/small/Unknown-5.png"
     },
@@ -393,7 +393,7 @@
       "name": "Huobi USD",
       "address": "0x1e37E5b504F7773460d6eB0e24D2e7C223B66EC7",
       "symbol": "HUSD",
-      "decimals": 18,
+      "decimals": 8,
       "chainId": 100,
       "logoURI": "https://assets.coingecko.com/coins/images/9567/small/HUSD.jpg"
     },
@@ -441,7 +441,7 @@
       "name": "Lien",
       "address": "0x6062eC2A1ecfCD0026d9BD67aa5ad743Adc03995",
       "symbol": "Lien",
-      "decimals": 18,
+      "decimals": 8,
       "chainId": 100,
       "logoURI": "https://assets.coingecko.com/coins/images/12224/small/Lien.png"
     },
@@ -777,7 +777,7 @@
       "name": "Project Serum",
       "address": "0x3AE8c08cD61d05ad6e22973E4b675A92D412EE3C",
       "symbol": "SRM",
-      "decimals": 18,
+      "decimals": 6,
       "chainId": 100,
       "logoURI": "https://assets.coingecko.com/coins/images/11970/small/serum-logo.png"
     },
@@ -833,7 +833,7 @@
       "name": "Monolith",
       "address": "0xD1B11356464Ac5B48172fa6bD14Ac2417631BEDa",
       "symbol": "TKN",
-      "decimals": 18,
+      "decimals": 8,
       "chainId": 100,
       "logoURI": "https://assets.coingecko.com/coins/images/675/small/Monolith.png"
     },
@@ -841,7 +841,7 @@
       "name": "TruFi",
       "address": "0x4384a7C9498f905e433Ee06B6552a18e1D7cD3a4",
       "symbol": "TRU",
-      "decimals": 18,
+      "decimals": 8,
       "chainId": 100,
       "logoURI": "https://assets.coingecko.com/coins/images/13180/small/trust-token.png"
     },
