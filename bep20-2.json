@@ -89,7 +89,7 @@
       "name": "Dogecoin",
       "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
       "symbol": "Doge",
-      "decimals": 18,
+      "decimals": 8,
       "chainId": 56,
       "logoURI": "https://bscscan.com/token/images/dogecoin_32.png"
     },
@@ -289,7 +289,7 @@
       "name": "vBTC",
       "address": "0x882c173bc7ff3b7786ca16dfed3dfffb9ee7847b",
       "symbol": "vBTC",
-      "decimals": 18,
+      "decimals": 8,
       "chainId": 56,
       "logoURI": "https://bscscan.com/token/images/venus-vbtc_32.png"
     },
@@ -481,7 +481,7 @@
       "name": "BTCST",
       "address": "0x78650b139471520656b9e7aa7a5e9276814a38e9",
       "symbol": "BTCST",
-      "decimals": 18,
+      "decimals": 17,
       "chainId": 56,
       "logoURI": "https://assets.coingecko.com/coins/images/13636/small/btcst-coin.png?1610501705"
     },
@@ -524,6 +524,30 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://www.bao.finance/static/media/bao-banner.90e5acb6.png"
+    },
+    {
+      "name": "Hedget",
+      "address": "0x794f976c12b2616fa2af3f38a73d3b61fbf68661",
+      "symbol": "HGET",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI": "https://assets.coingecko.com/coins/images/12453/small/Hedget.png?1599944809"
+    },
+    {
+      "name": "BLink",
+      "address": "0x63870a18b6e42b01ef1ad8a2302ef50b7132054f",
+      "symbol": "BLK",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI": "https://assets.coingecko.com/coins/images/13210/small/exO5GLDpRGo.jpg?1606202654"
+    },
+    {
+      "name": "Alien Worlds",
+      "address": "0x2222227e22102fe3322098e4cbfe18cfebd57c95",
+      "symbol": "TLM",
+      "decimals": 4,
+      "chainId": 56,
+      "logoURI": "https://assets.coingecko.com/coins/images/14676/small/kY-C4o7RThfWrDQsLCAG4q4clZhBDDfJQVhWUEKxXAzyQYMj4Jmq1zmFwpRqxhAJFPOa0AsW_PTSshoPuMnXNwq3rU7Imp15QimXTjlXMx0nC088mt1rIwRs75GnLLugWjSllxgzvQ9YrP4tBgclK4_rb17hjnusGj_c0u2fx0AvVokjSNB-v2poTj0xT9BZRCbzRE3-lF1.jpg?1617700061"
     }
   ]
 }
