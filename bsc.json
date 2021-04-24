@@ -7,7 +7,7 @@
 		"patch": 1
 	},
 	"tags": {},
-	"logoURI": "https://assets.coingecko.com/coins/images/13547/small/BAO.png",
+	"logoURI": "https://pandaswap.xyz/static/media/bao-logo.afd82c21.png",
 	"keywords": [
 		"baoswap",
 		"xdai"
@@ -523,7 +523,7 @@
 		  "symbol": "PNDA",
 		  "decimals": 18,
 		  "chainId": 56,
-		  "logoURI": "https://www.bao.finance/static/media/bao-banner.90e5acb6.png"
+		  "logoURI": "https://pandaswap.xyz/static/media/bao-logo.afd82c21.png"
 		},
 		{
 		  "name": "Hedget",
@@ -556,6 +556,54 @@
 			"decimals": 18,
 			"chainId": 56,
 			"logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615"
+		},
+		{
+			"name": "Midas Dollar Share",
+			"address": "0x242E46490397ACCa94ED930F2C4EdF16250237fa",
+			"symbol": "MDS",
+			"decimals": 18,
+			"chainId": 56,
+			"logoURI": "https://assets.coingecko.com/coins/images/13979/small/MDS_token.png?1613447377"
+		},
+		{
+			"name": "Mirror Protocol",
+			"address": "0x5b6dcf557e2abe2323c48445e8cc948910d8c2c9",
+			"symbol": "MIR",
+			"decimals": 18,
+			"chainId": 56,
+			"logoURI": "https://assets.coingecko.com/coins/images/13295/small/mirror_logo_transparent.png?1611554658"
+		},
+		{
+			"name": "Helmet Insure",
+			"address": "0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8",
+			"symbol": "HELMET",
+			"decimals": 18,
+			"chainId": 56,
+			"logoURI": "https://assets.coingecko.com/coins/images/13680/small/ZMdK-1J4_400x400.png?1610834469"
+		},
+		{
+			"name": "BUX Token",
+			"address": "0x211FfbE424b90e25a15531ca322adF1559779E45",
+			"symbol": "BUX",
+			"decimals": 18,
+			"chainId": 56,
+			"logoURI": "https://assets.coingecko.com/coins/images/2316/small/BUXC.png?1600760731"
+		},
+		{
+			"name": "Polkastarter",
+			"address": "0x7e624FA0E1c4AbFD309cC15719b7E2580887f570",
+			"symbol": "POLS",
+			"decimals": 18,
+			"chainId": 56,
+			"logoURI": "https://assets.coingecko.com/coins/images/12648/small/polkastarter.png?1609813702"
+		},
+		{
+			"name": "Cream",
+			"address": "0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888",
+			"symbol": "CREAM",
+			"decimals": 18,
+			"chainId": 56,
+			"logoURI": "https://assets.coingecko.com/coins/images/11976/small/Cream.png?1596593418"
 		}
 	  ]
 	}
