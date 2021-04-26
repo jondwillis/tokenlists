@@ -22,6 +22,14 @@
 			"logoURI": "https://bscscan.com/token/images/ethereum_32.png"
 		},
 		{
+			"name": "Binance Coin",
+			"address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+			"symbol": "BNB",
+			"decimals": 18,
+			"chainId": 56,
+			"logoURI": "https://bscscan.com/token/images/binance_32.png"
+		},
+		{
 			"name": "DOT",
 			"address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
 			"symbol": "DOT",
