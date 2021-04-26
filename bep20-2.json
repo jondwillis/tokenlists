@@ -604,6 +604,22 @@
 			"decimals": 18,
 			"chainId": 56,
 			"logoURI": "https://assets.coingecko.com/coins/images/11976/small/Cream.png?1596593418"
+    },
+		{
+			"name": "Rhino",
+			"address": "0xd2eca3cff5f09cfc9c425167d12f0a005fc97c8c",
+			"symbol": "RHINO",
+			"decimals": 9,
+			"chainId": 56,
+			"logoURI": "https://pandaswap.xyz/static/media/rhino-logo.png"
+    },
+		{
+			"name": "Bamboo",
+			"address": "0xef88e0d265ddc8f5e725a4fda1871f9fe21b11e2",
+			"symbol": "BAMBOO",
+			"decimals": 18,
+			"chainId": 56,
+			"logoURI": "https://pandaswap.xyz/static/media/bamboo-logo.png"
 		}
 	  ]
 	}
