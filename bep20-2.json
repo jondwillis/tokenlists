@@ -1,6 +1,6 @@
 {
 	"name": "Pandaswap Default",
-	"timestamp": "2021-4-27T18:17:31.662Z",
+	"timestamp": "2021-12-10T18:17:31.662Z",
 	"version": {
 		"major": 1,
 		"minor": 10,
@@ -22,9 +22,9 @@
 			"logoURI": "https://bscscan.com/token/images/ethereum_32.png"
 		},
 		{
-			"name": "Binance Coin",
+			"name": "Wrapped BNB",
 			"address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-			"symbol": "BNB",
+			"symbol": "WBNB",
 			"decimals": 18,
 			"chainId": 56,
 			"logoURI": "https://bscscan.com/token/images/binance_32.png"
@@ -475,7 +475,7 @@
 			"symbol": "vLINK",
 			"decimals": 8,
 			"chainId": 56,
-			"logoURI": "https://etherscan.io/token/images/unilayer_32.png"
+			"logoURI": "https://assets.coingecko.com/coins/images/13923/small/vlink.png?1612845463"
 		},
 		{
 			"name": "Beefy",
@@ -531,7 +531,7 @@
 			"symbol": "PNDA",
 			"decimals": 18,
 			"chainId": 56,
-			"logoURI": "https://pandaswap.xyz/static/media/bao-logo.afd82c21.png"
+			"logoURI": "https://farms.pandaswap.xyz/pnda.png"
 		},
 		{
 			"name": "Hedget",
@@ -611,7 +611,7 @@
 			"symbol": "RHINO",
 			"decimals": 9,
 			"chainId": 56,
-			"logoURI": "https://pandaswap.xyz/static/media/rhino-logo.png"
+			"logoURI": "https://farms.pandaswap.xyz/rhino.png"
 		},
 		{
 			"name": "Bamboo",
@@ -619,7 +619,15 @@
 			"symbol": "BAMBOO",
 			"decimals": 18,
 			"chainId": 56,
-			"logoURI": "https://pandaswap.xyz/static/media/bamboo-logo.png"
+			"logoURI": "https://farms.pandaswap.xyz/bamboo.png"
+		},
+		{
+			"name": "Bao",
+			"address": "0x47eaf5f54d79d5c2b6537a90a0c58a534ab51c8c",
+			"symbol": "BAO",
+			"decimals": 18,
+			"chainId": 56,
+			"logoURI": "https://farms.pandaswap.xyz/bao.png"
 		}
 	]
 }
